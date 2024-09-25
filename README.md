@@ -52,7 +52,7 @@ No additional installation is required as the project only uses vanilla HTML, CS
 
 ### Screenshot
 
-![App Screenshot](assets/images/Mod3.png)
+![App Screenshot](/assets/images/mod3.png)
 
 ## Credits
 
